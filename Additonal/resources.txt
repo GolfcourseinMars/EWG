@@ -1,1 +1,1 @@
-exit code
+This directory contains screenshots of the actual website under development.
